@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+.Dark{
+    color: green;
+}
+.Berries{
+    color: purple;
+}
+.Eggs{
+    color: yellow;
+}
+.Nuts{
+    color: saddlebrown;
+}
+.Oil{
+    color: seagreen;
+}
+a:hover{
+    color: violet;
+}
+footer{
+    text-align: center;
+}
