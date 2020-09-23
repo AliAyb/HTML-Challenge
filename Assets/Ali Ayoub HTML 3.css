@@ -1,5 +1,9 @@
+body{
+    background-color: rgb(33,43,45);
+    color: white;
+}
 header{
-    background-image: url(vietnamese.jpg);
+    background-image: url(html3.png);
     height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -16,18 +20,20 @@ header{
     justify-content: space-between;
 }
 nav{
-    font-size: 40px;
-    background-color: silver;
+    font-size: 35px;
+    background-color: rgb(50,60,62);
     text-align: center;
 }
 .vl{
-    border-left: 2px solid black;
+    border-left: 2px solid white;
     height: 380px;
 }
 .h1{
+    color: white;
     font-size: 80px;
 }
 .h2{
+    color: white;
     font-size: 50px;
 }
 .service{
@@ -35,4 +41,21 @@ nav{
 }
 footer{
     text-align: center;
+}
+button{
+    background-color: rgb(92,101,102);
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.gallery{
+    width:70%;
+}
+li{
+    text-decoration: underline;
+}
+.web {
+    width: 80%;
+    margin: 0 auto;
 }
