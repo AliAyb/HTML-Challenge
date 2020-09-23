@@ -1,0 +1,38 @@
+header{
+    background-image: url(vietnamese.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.classone{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.classtwo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+nav{
+    font-size: 40px;
+    background-color: silver;
+    text-align: center;
+}
+.vl{
+    border-left: 2px solid black;
+    height: 380px;
+}
+.h1{
+    font-size: 80px;
+}
+.h2{
+    font-size: 50px;
+}
+.service{
+    margin-left: 1.5%;
+}
+footer{
+    text-align: center;
+}
